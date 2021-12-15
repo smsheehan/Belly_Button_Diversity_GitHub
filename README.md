@@ -5,3 +5,4 @@ Project to build an interactive website displaying key information from the bell
 * changed background color
 * changed chart page colors
 * adjusted fonts
+The project has been deployed on GitHub pages and can be viewed at: https://smsheehan.github.io/Belly_Button_Diversity_GitHub/
